@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4%;
+}
+
+.navbar .logo{
+    width: max(40%, 80px);
+}
+
+.adminpanel{
+    margin-left: 22px;
+    color: #5d5d5d;
+}
+
+.navbar .profile{
+    width: 40px;
+}
