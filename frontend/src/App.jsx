@@ -8,7 +8,7 @@ import Footer from './components/Footer/Footer'
 import LoginPopup from './components/LoginPopup/LoginPopup'
 import Verify from './pages/Verify/Verify'
 import MyOrders from './pages/myOrders/MyOrders'
-import Privacy from './components/PrivacyPolicy/Privacy'
+import Privacy from './pages/PrivacyPolicy/Privacy'
 const App = () => {
 
   const [showLogin, setShowLogin] = useState(false);
